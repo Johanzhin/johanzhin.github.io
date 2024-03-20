@@ -420,7 +420,7 @@ textarea {
     padding: 15px;
     border-radius: 2px;
     border: none;
-    background-color: var(--colorblanco);
+    background-color: var(--colorgrisfondo);
 }
 
 .formulario-input input {
