@@ -300,12 +300,12 @@ header {
 }
 
 .campusonline {
-    color: var(--colorgristexto2);
+    color: var(--colorblanco);
     font-weight: 700;
     padding: 80px;
 
     & p {
-        color: var(--colorgristexto1);
+        color: var(--colorblanco);
         font-weight: 700;
         line-height: 40px;
     }
