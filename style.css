@@ -203,7 +203,7 @@ header {
     gap: 25px;
     color: var(--colorazul);
     & p {
-        color: var(--colorgristexto1);
+        color: var(--colornegro);
     }
 }
 
@@ -220,7 +220,7 @@ header {
     color: var(--colorazul);
 
     & p {
-        color: var(--colorgristexto1);
+        color: var(--colornegro);
     }
 }
 
